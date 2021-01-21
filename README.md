@@ -10,10 +10,11 @@
   
 ### The recommendation system is designed in 2 parts based on the business requirement:
 <ul>
-<li><p><b><b>Recommendation system part 1:</b> Product popularity-based system targeted at new customers. These kinds of systems provide great strategy to target the new customers with the most popular products sold on a business's website and is very useful to start a recommendation engine.</p></li>
+<li><p><b>Recommendation system part 1:</b> Product popularity-based system targeted at new customers. These kinds of systems provide great strategy to target the new customers with the most popular products sold on a business's website and is very useful to start a recommendation engine.</p></li>
 
 <li><p><b>Recommendation system part 2:</b> Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who also bought similar items.</p></li>
 </ul>
+
 ---
 
 ### What Is Collaborative Filtering?
