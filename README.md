@@ -1,6 +1,3 @@
-# Product-Recommendation-System-for-Amazon-Beauty-Products
-
-
 # <center> Predicting Number of Upvotes on Questions on Social Platform</center>
 
 --- 
@@ -9,7 +6,7 @@
 
 <img width="400" alt="Recommendation_amazon 1" src="https://user-images.githubusercontent.com/72686156/105346524-b706bd80-5c0b-11eb-9a5c-4b48335649d4.png">
 
-<p><h3> The below recommendation system is based on the journey of a new customer from the time he/she lands on the business’s website for the first time to the time when he/she makes repeat purchases.</h3></p>
+<p><h4> The below recommendation system is based on the journey of a new customer from the time he/she lands on the business’s website for the first time to the time when he/she makes repeat purchases.</h4></p>
   
 ### The recommendation system is designed in 2 parts based on the business requirement:
 <ul>
@@ -20,7 +17,7 @@
 ---
 
 ### What Is Collaborative Filtering?
-<p><h3> Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users. It works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user.</h3></p>
+<p><h4> Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users. It works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user.</h4></p>
 
 <img width="400" alt="Recommendation_amazon 2" src="https://user-images.githubusercontent.com/72686156/105347030-53c95b00-5c0c-11eb-9b32-0c35a09ade9b.png">
 
