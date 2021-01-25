@@ -1,4 +1,4 @@
-# <center> Prdouct Recommendation Engine Using Collaborative Filtering</center>
+# <center> Prdouct Recommendation Engine for Amazon Beauty Products</center>
 
 --- 
 
